@@ -1,0 +1,6 @@
+.specstory
+*.log
+.DS_Store
+*.csv
+*.pdf
+*.md
